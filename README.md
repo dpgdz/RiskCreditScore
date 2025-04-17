@@ -1,4 +1,7 @@
 # RiskCreditScore
+
+The data used in this study was taken from the final exam of the Data Visualization course, with the dataset named "Home Credit". I used a dataset named application_train, selecting a random subset of 10,000 rows. The features used for analysis are listed in the table below.
+
 <table>
   <thead>
     <tr>
